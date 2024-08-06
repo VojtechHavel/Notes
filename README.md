@@ -1,2 +1,6 @@
 # Notes
-My notes
+My public notes
+
+## Contents
+### Angular
+### Java
